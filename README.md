@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thejas-vishnu
+- 👀 I’m interested in Power BI for life
+- 🌱 I’m currently learning Advanced Power BI and Python
+- 💞️ I’m looking to collaborate on Power BI projects
+- 📫 How to reach me thejas.vishnu@outlook.com
